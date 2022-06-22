@@ -1,0 +1,151 @@
+#header {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;  
+    overflow: hidden;
+    background-color: black;
+    height: auto;
+  }
+
+#title {
+    display: block;
+    float: left;
+    padding: 14px 16px;
+}
+
+#login {
+    display: block;
+    background-color: rgb(145, 194, 73);
+    text-align: center;
+    float: right;
+    padding: 14px 16px;
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+}
+
+h3 {
+    color: white;
+    font-size: 30px;
+}
+
+nav {
+    background-color: darkblue;
+    height: 80px;
+}
+
+#nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align:center;
+  }
+  
+  li {
+    display:inline;
+  }
+  
+  li h3 {
+    display:inline-block;
+    color: white;
+    text-align: center;
+    padding: 25px 10% 0 10%;
+  }
+
+#pic {
+    height: 500px;
+    margin: 0;
+    background-image: url("../images/1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: cover;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+#about {
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+p {
+    font-size: 15px;
+    color: white;
+    padding: 10px 40px 10px 40px;
+}
+
+#three {
+    background-color: lightgray;
+    height: 350px;
+    padding-top: 45px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+span.a1 {
+    display: inline-block;
+    width: 33%;
+    height: 45px;
+    background-position: center;
+  }
+
+span.a2 {
+    display: inline-block;
+    width: 31%;
+    height: 45px;
+    padding-left: 2%;
+    background-position: center;
+  }
+
+span.a3 {
+    display: inline-block;
+    width: 31%;
+    height: 45px;
+    padding-left: 2%;
+    background-position: center;
+    }
+
+span.b1 {
+    display: inline-block;
+    width: 31%;
+    height: 75%;
+    margin-right: 3%;
+    background-image: url(../images/2.jpg); 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: cover;
+  }
+
+  span.b2 {
+    display: inline-block;
+    width: 31%;
+    height: 75%;
+    margin-right: 3%;
+    background-image: url(../images/5.jpg); 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: cover;
+  }
+
+  span.b3 {
+    display: inline-block;
+    width: 31%;
+    height: 75%;
+    background-image: url(../images/6.jpg); 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: cover;
+  }
+
+h2 {
+    color: black;
+    font-size: 35px;
+}
